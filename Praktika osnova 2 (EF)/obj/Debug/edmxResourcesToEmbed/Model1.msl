@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище PraktikaModelContainer" CdmEntityContainer="PraktikaEntities">
+    <EntitySetMapping Name="Customers">
+      <EntityTypeMapping TypeName="PraktikaModel.Customers">
+        <MappingFragment StoreEntitySet="Customers">
+          <ScalarProperty Name="customer_id" ColumnName="customer_id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+          <ScalarProperty Name="address" ColumnName="address" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Notebooks">
+      <EntityTypeMapping TypeName="PraktikaModel.Notebooks">
+        <MappingFragment StoreEntitySet="Notebooks">
+          <ScalarProperty Name="notebook_id" ColumnName="notebook_id" />
+          <ScalarProperty Name="brand" ColumnName="brand" />
+          <ScalarProperty Name="model" ColumnName="model" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="release_date" ColumnName="release_date" />
+          <ScalarProperty Name="storage_capacity" ColumnName="storage_capacity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="PraktikaModel.Orders">
+        <MappingFragment StoreEntitySet="Orders">
+          <ScalarProperty Name="order_id" ColumnName="order_id" />
+          <ScalarProperty Name="customer_id" ColumnName="customer_id" />
+          <ScalarProperty Name="notebook_id" ColumnName="notebook_id" />
+          <ScalarProperty Name="order_date" ColumnName="order_date" />
+          <ScalarProperty Name="quantity" ColumnName="quantity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sales">
+      <EntityTypeMapping TypeName="PraktikaModel.Sales">
+        <MappingFragment StoreEntitySet="Sales">
+          <ScalarProperty Name="sale_id" ColumnName="sale_id" />
+          <ScalarProperty Name="order_id" ColumnName="order_id" />
+          <ScalarProperty Name="sale_date" ColumnName="sale_date" />
+          <ScalarProperty Name="total_amount" ColumnName="total_amount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

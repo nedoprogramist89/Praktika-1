@@ -1,0 +1,30 @@
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\bin\Debug\Praktika osnova 2 (EF).exe.config
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\bin\Debug\Praktika osnova 2 (EF).exe
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\bin\Debug\Praktika osnova 2 (EF).pdb
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\bin\Debug\EntityFramework.dll
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\bin\Debug\EntityFramework.xml
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\obj\Debug\Praktika osnova 2 (EF).csproj.AssemblyReference.cache
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\obj\Debug\MainWindow.g.cs
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\obj\Debug\NotebooksPage.g.cs
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\obj\Debug\CustomersPage.g.cs
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\obj\Debug\OrdersPage.g.cs
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\obj\Debug\SalesPage.g.cs
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\obj\Debug\App.g.cs
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\obj\Debug\Praktika osnova 2 (EF)_Content.g.cs
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\obj\Debug\Praktika osnova 2 (EF)_MarkupCompile.cache
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\obj\Debug\Praktika osnova 2 (EF)_MarkupCompile.lref
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\obj\Debug\MainWindow.baml
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\obj\Debug\NotebooksPage.baml
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\obj\Debug\CustomersPage.baml
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\obj\Debug\OrdersPage.baml
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\obj\Debug\SalesPage.baml
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\obj\Debug\Praktika osnova 2 (EF).g.resources
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\obj\Debug\Praktika_osnova_2__EF_.Properties.Resources.resources
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\obj\Debug\Praktika osnova 2 (EF).csproj.GenerateResource.cache
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\obj\Debug\Praktika osnova 2 (EF).csproj.CoreCompileInputs.cache
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\obj\Debug\Praktika osnova 2 (EF).csproj.CopyComplete
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\obj\Debug\Praktika osnova 2 (EF).exe
+C:\Users\Дамир\source\repos\Praktika osnova 2 (EF)\Praktika osnova 2 (EF)\obj\Debug\Praktika osnova 2 (EF).pdb
